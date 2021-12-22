@@ -4,7 +4,6 @@ import numpy as np
 from modelling.source import Source
 from modelling.microphone import Mic
 from modelling.point import SoundPoint
-from modelling.wall import Wall
 from modelling.player import Player
 
 
